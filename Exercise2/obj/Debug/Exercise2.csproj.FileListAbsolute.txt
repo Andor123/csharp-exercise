@@ -1,0 +1,7 @@
+C:\Users\Andor11\source\repos\Exercise\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\Andor11\source\repos\Exercise\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\Andor11\source\repos\Exercise\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise2\obj\Debug\Exercise2.pdb
