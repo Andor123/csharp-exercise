@@ -1,0 +1,7 @@
+C:\Users\Andor11\source\repos\Exercise\Exercise20\bin\Debug\Exercise20.exe.config
+C:\Users\Andor11\source\repos\Exercise\Exercise20\bin\Debug\Exercise20.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise20\bin\Debug\Exercise20.pdb
+C:\Users\Andor11\source\repos\Exercise\Exercise20\obj\Debug\Exercise20.csprojResolveAssemblyReference.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise20\obj\Debug\Exercise20.csproj.CoreCompileInputs.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise20\obj\Debug\Exercise20.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise20\obj\Debug\Exercise20.pdb

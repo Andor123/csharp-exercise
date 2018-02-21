@@ -1,0 +1,6 @@
+C:\Users\Andor11\source\repos\Exercise\Exercise23\bin\Debug\Exercise23.exe.config
+C:\Users\Andor11\source\repos\Exercise\Exercise23\bin\Debug\Exercise23.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise23\bin\Debug\Exercise23.pdb
+C:\Users\Andor11\source\repos\Exercise\Exercise23\obj\Debug\Exercise23.csproj.CoreCompileInputs.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise23\obj\Debug\Exercise23.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise23\obj\Debug\Exercise23.pdb

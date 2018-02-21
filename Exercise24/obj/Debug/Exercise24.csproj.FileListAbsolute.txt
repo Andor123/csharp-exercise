@@ -1,0 +1,6 @@
+C:\Users\Andor11\source\repos\Exercise\Exercise24\bin\Debug\Exercise24.exe.config
+C:\Users\Andor11\source\repos\Exercise\Exercise24\bin\Debug\Exercise24.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise24\bin\Debug\Exercise24.pdb
+C:\Users\Andor11\source\repos\Exercise\Exercise24\obj\Debug\Exercise24.csproj.CoreCompileInputs.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise24\obj\Debug\Exercise24.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise24\obj\Debug\Exercise24.pdb
