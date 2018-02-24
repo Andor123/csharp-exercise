@@ -1,0 +1,6 @@
+C:\Users\Andor11\source\repos\Exercise\Exercise39\bin\Debug\Exercise39.exe.config
+C:\Users\Andor11\source\repos\Exercise\Exercise39\bin\Debug\Exercise39.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise39\bin\Debug\Exercise39.pdb
+C:\Users\Andor11\source\repos\Exercise\Exercise39\obj\Debug\Exercise39.csproj.CoreCompileInputs.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise39\obj\Debug\Exercise39.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise39\obj\Debug\Exercise39.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andor11\source\repos\Exercise\Exercise33\bin\Debug\Exercise33.exe.config
+C:\Users\Andor11\source\repos\Exercise\Exercise33\bin\Debug\Exercise33.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise33\bin\Debug\Exercise33.pdb
+C:\Users\Andor11\source\repos\Exercise\Exercise33\obj\Debug\Exercise33.csprojResolveAssemblyReference.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise33\obj\Debug\Exercise33.csproj.CoreCompileInputs.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise33\obj\Debug\Exercise33.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise33\obj\Debug\Exercise33.pdb

@@ -1,0 +1,6 @@
+C:\Users\Andor11\source\repos\Exercise\Exercise34\bin\Debug\Exercise34.exe.config
+C:\Users\Andor11\source\repos\Exercise\Exercise34\bin\Debug\Exercise34.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise34\bin\Debug\Exercise34.pdb
+C:\Users\Andor11\source\repos\Exercise\Exercise34\obj\Debug\Exercise34.csproj.CoreCompileInputs.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise34\obj\Debug\Exercise34.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise34\obj\Debug\Exercise34.pdb

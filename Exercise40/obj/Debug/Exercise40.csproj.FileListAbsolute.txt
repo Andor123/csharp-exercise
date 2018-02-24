@@ -1,0 +1,7 @@
+C:\Users\Andor11\source\repos\Exercise\Exercise40\bin\Debug\Exercise40.exe.config
+C:\Users\Andor11\source\repos\Exercise\Exercise40\bin\Debug\Exercise40.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise40\bin\Debug\Exercise40.pdb
+C:\Users\Andor11\source\repos\Exercise\Exercise40\obj\Debug\Exercise40.csproj.CoreCompileInputs.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise40\obj\Debug\Exercise40.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise40\obj\Debug\Exercise40.pdb
+C:\Users\Andor11\source\repos\Exercise\Exercise40\obj\Debug\Exercise40.csprojResolveAssemblyReference.cache
