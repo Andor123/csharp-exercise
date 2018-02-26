@@ -1,0 +1,7 @@
+C:\Users\Andor11\source\repos\Exercise\Exercise48\bin\Debug\Exercise48.exe.config
+C:\Users\Andor11\source\repos\Exercise\Exercise48\bin\Debug\Exercise48.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise48\bin\Debug\Exercise48.pdb
+C:\Users\Andor11\source\repos\Exercise\Exercise48\obj\Debug\Exercise48.csprojResolveAssemblyReference.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise48\obj\Debug\Exercise48.csproj.CoreCompileInputs.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise48\obj\Debug\Exercise48.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise48\obj\Debug\Exercise48.pdb

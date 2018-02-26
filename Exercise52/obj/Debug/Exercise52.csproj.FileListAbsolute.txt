@@ -1,0 +1,6 @@
+C:\Users\Andor11\source\repos\Exercise\Exercise52\bin\Debug\Exercise52.exe.config
+C:\Users\Andor11\source\repos\Exercise\Exercise52\bin\Debug\Exercise52.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise52\bin\Debug\Exercise52.pdb
+C:\Users\Andor11\source\repos\Exercise\Exercise52\obj\Debug\Exercise52.csproj.CoreCompileInputs.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise52\obj\Debug\Exercise52.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise52\obj\Debug\Exercise52.pdb
