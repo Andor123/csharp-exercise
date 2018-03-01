@@ -1,0 +1,7 @@
+C:\Users\Andor11\source\repos\Exercise\Exercise58\bin\Debug\Exercise58.exe.config
+C:\Users\Andor11\source\repos\Exercise\Exercise58\bin\Debug\Exercise58.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise58\bin\Debug\Exercise58.pdb
+C:\Users\Andor11\source\repos\Exercise\Exercise58\obj\Debug\Exercise58.csprojResolveAssemblyReference.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise58\obj\Debug\Exercise58.csproj.CoreCompileInputs.cache
+C:\Users\Andor11\source\repos\Exercise\Exercise58\obj\Debug\Exercise58.exe
+C:\Users\Andor11\source\repos\Exercise\Exercise58\obj\Debug\Exercise58.pdb
